@@ -4,7 +4,7 @@
 
 - Find me on [Twitter](https://twitter.com/yanneckreiss) 🐦
 
-- Find on [YouTube](https://www.youtube.com/channel/UCqHzmnim9pKgpq57Hm7o2Gg) 🔭
+- Find me on [YouTube](https://www.youtube.com/channel/UCqHzmnim9pKgpq57Hm7o2Gg) 🔭
 
 - ![Featured in AndroidWeekly 474](https://androidweekly.net/issues/issue-474/badge "How To Securely Build and Sign your Android App With GitHub Actions") with my article ["How To Securely Build and Sign your Android App With GitHub Actions"](https://proandroiddev.com/how-to-securely-build-and-sign-your-android-app-with-github-actions-ad5323452ce)
 
