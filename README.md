@@ -6,9 +6,14 @@
 
 - Find me on [YouTube](https://www.youtube.com/channel/UCqHzmnim9pKgpq57Hm7o2Gg) 🔭
 
+
+## Featured in
+
 - ![Featured in AndroidWeekly 474](https://androidweekly.net/issues/issue-474/badge "How To Securely Build and Sign your Android App With GitHub Actions") with my article ["How To Securely Build and Sign your Android App With GitHub Actions"](https://proandroiddev.com/how-to-securely-build-and-sign-your-android-app-with-github-actions-ad5323452ce)
 
 - ![Featured in AndroidWeekly 540](https://androidweekly.net/issues/issue-540/badge "How To Use Android’s Preferences DataStore") with my YouTube video ["How To Use Android’s Preferences DataStore"](https://www.youtube.com/watch?v=W7ua0qCmH1g)
+
+- Featured in the [Gradle Newsletter from January 2023](https://newsletter.gradle.org/2023/01) 🐘
 
 <!--
 **YanneckReiss/YanneckReiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
