@@ -16,7 +16,10 @@
 - Featured in the [Gradle Newsletter from January 2023](https://newsletter.gradle.org/2023/01) 🐘
 
 - Featured in [KotlinWeekly #341](https://mailchi.mp/kotlinweekly/kotlin-weekly-341) with my YouTube video ["Optimize Your Kotlin App for Faster Performance - Learn How to Measure Execution Time"](https://www.youtube.com/watch?v=T8G4KXKl6bU)
+
 - ![Featured in AndroidWeekly 577](https://androidweekly.net/issues/issue-577/badge) with my YouTube video ["Integrate CameraX with Jetpack Compose in Android"](https://www.youtube.com/watch?v=pPVZambOuG8)
+
+- ![Featured in AndroidWeekly 580](https://androidweekly.net/issues/issue-580/badge) with my YouTube video ["Paging3 with Jetpack Compose & Android Room"](https://www.youtube.com/watch?v=8o8ijx5gKjw)
 
 <!--
 **YanneckReiss/YanneckReiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
