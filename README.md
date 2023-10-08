@@ -21,6 +21,8 @@
 
 - ![Featured in AndroidWeekly 580](https://androidweekly.net/issues/issue-580/badge) with my YouTube video ["Paging3 with Jetpack Compose & Android Room"](https://www.youtube.com/watch?v=8o8ijx5gKjw)
 
+- ![Featured in AndroidWeekly 589](https://androidweekly.net/issues/issue-589/badge) with my YouTube video ["How To Implement In-App Photo Capturing With Jetpack Compose"](https://www.youtube.com/watch?v=LRWkQtxGe0E)
+
 <!--
 **YanneckReiss/YanneckReiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
