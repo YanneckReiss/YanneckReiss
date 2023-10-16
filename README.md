@@ -23,6 +23,9 @@
 
 - ![Featured in AndroidWeekly 589](https://androidweekly.net/issues/issue-589/badge) with my YouTube video ["How To Implement In-App Photo Capturing With Jetpack Compose"](https://www.youtube.com/watch?v=LRWkQtxGe0E)
 
+- ![Featured in AndroidWeekly 592](https://androidweekly.net/issues/issue-592/badge) with my YouTube video ["Master Adaptive Screen Sizes For Foldable Support"](https://www.youtube.com/watch?v=LRWkQtxGe0E)
+
+
 <!--
 **YanneckReiss/YanneckReiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
