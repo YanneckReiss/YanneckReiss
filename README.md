@@ -25,6 +25,7 @@
 
 - ![Featured in AndroidWeekly 592](https://androidweekly.net/issues/issue-592/badge) with my YouTube video ["Master Adaptive Screen Sizes For Foldable Support"](https://www.youtube.com/watch?v=LRWkQtxGe0E)
 
+- ![Featured in AndroidWeekly 596](https://androidweekly.net/issues/issue-596/badge) with my YouTube video ["Introduction to Kotlin Multiplatform and Compose Multiplatform"](https://www.youtube.com/watch?v=wu2PkJ23QhU)
 
 <!--
 **YanneckReiss/YanneckReiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
